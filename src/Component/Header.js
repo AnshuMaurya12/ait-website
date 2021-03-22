@@ -8,7 +8,7 @@ function Header (){
 <nav className ="nav bar bg-dark justify-content-left">
 <img src="https://www.achieversit.com/assets/images/AIT-white.jpg" alt="ait"></img> 
  </nav>   
-<nav className =" nav bg-dark nav-item justify-content-end">
+<nav className ="nav bg-dark nav-item justify-content-end">
   <li className="nav-link">
     <Link to="Contact" className ="nav-link " >Contact Us</Link>
   </li>
@@ -42,6 +42,7 @@ function Header (){
       <a className="flex-sm-fill text-justify p-0 mr-1 nav-link" href="#">IONIC</a>
       <a className="flex-sm-fill text-justify p-0 mr-1 nav-link" href="#">React_Native</a>
       <a className="flex-sm-fill text-justify p-0 mr-1 nav-link" href="#">Web Dev</a>
+      <a className="flex-sm-fill text-justify p-0 mr-1 nav-link" href="#">Full stack</a>
     </div>
   </nav>
   
