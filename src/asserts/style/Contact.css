@@ -1,0 +1,26 @@
+h1{
+    margin-left: -190px;
+    padding: 20px;
+}
+Button {
+
+    padding: 5px;
+    background-color: red;
+    color: white
+  }
+
+  form{
+      background-color: skyblue;
+      color: black;
+      margin-top: 80px;
+      box-sizing: content-box;
+      width: 700px;
+      height: 420px;
+     margin-left: 180px;
+     border-radius: 30px;
+     border : solid 4px blue;
+     padding-top: 40px;
+  }
+  input {
+      background-color: aqua;
+  }
